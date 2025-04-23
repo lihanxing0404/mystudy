@@ -50,7 +50,7 @@
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
                 "分类url": "https://www.ddmf.net/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#其它$5",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#其它hh$5",
                 "筛选参数": {
                     "地区": [
                         "全部",
