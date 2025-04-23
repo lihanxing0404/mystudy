@@ -261,9 +261,9 @@
     { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./json/douban.json" },
     { "key":"直播转点播", "name": "电台 ┃ 直播", "type":3, "searchable":0, "style": { "type": "list" }  ,"api": "./lib/live2vod.js", "ext":"./lib/feimaolive.json"},
     { "key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./jar/wex.txt"},
-    //{ "key": "暴風","name": "暴風 | 资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
-    //{ "key": "索尼","name": "索尼 | 资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
-    //{ "key": "櫻花", "name": "櫻花 | 动漫", "type": 3, "api": "csp_Ying", "searchable": 1, "changeable": 1},
+    { "key": "暴風","name": "暴風 | 资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
+    { "key": "索尼","name": "索尼 | 资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
+    { "key": "櫻花", "name": "櫻花 | 动漫", "type": 3, "api": "csp_Ying", "searchable": 1, "changeable": 1},
     { "key": "巴士", "name": "巴士 | 动漫", "type": 3, "api": "csp_Dm84", "searchable": 1, "changeable": 1, "jar": "./jar/custom_spider.jar" },
     { "key": "異界", "name": "異界 | 动漫", "type": 3, "api": "csp_Ysj", "searchable": 1, "changeable": 1, "jar": "./jar/custom_spider.jar" } 
   ],
