@@ -227,9 +227,9 @@
         },
 
 
-  //{ "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/rebozy.json" },  
-  //{ "key": "华为吧", "name": "华为 | 影视", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "短剧", "冒险片", "剧情片", "动作片", "动画电影", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "歌舞片", "灾难片", "爱情片", "科幻片", "犯罪片", "经典片", "网络电影", "战争片", "伦理片", "欧美剧", "日剧", "韩剧", "台剧", "泰剧", "国产剧", "港剧", "新马剧", "其他剧", "欧美动漫", "日韩动漫", "国产动漫", "新马泰动漫", "港台动漫", "其他动漫", "国产综艺", "日韩综艺", "欧美综艺", "新马泰综艺", "港台综艺", "其他综艺", "纪录片" ]},
-  //{ "key": "最大", "name": "最大 | 影视", "type": 0, "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/", "searchable": 1, "changeable": 1},
+  { "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/rebozy.json" },  
+  { "key": "华为吧", "name": "华为 | 影视", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "短剧", "冒险片", "剧情片", "动作片", "动画电影", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "歌舞片", "灾难片", "爱情片", "科幻片", "犯罪片", "经典片", "网络电影", "战争片", "伦理片", "欧美剧", "日剧", "韩剧", "台剧", "泰剧", "国产剧", "港剧", "新马剧", "其他剧", "欧美动漫", "日韩动漫", "国产动漫", "新马泰动漫", "港台动漫", "其他动漫", "国产综艺", "日韩综艺", "欧美综艺", "新马泰综艺", "港台综艺", "其他综艺", "纪录片" ]},
+  { "key": "最大", "name": "最大 | 影视", "type": 0, "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/", "searchable": 1, "changeable": 1},
   { "key": "落攻阁", "name": "落攻阁 | 影视",  "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/落攻阁影视.json" },
   { "key": "csp_ipianba", "name": "片吧影视", "type": 3, "api": "csp_XBPQ", "ext": { "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
   { "key": "hbo", "name": "hbo", "type": 3, "api": "csp_XBPQ", "ext": { "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#", "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html" } },
