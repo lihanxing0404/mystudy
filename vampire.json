@@ -31,7 +31,14 @@
                 "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
             }
-        },           
+        },{
+      "key": "番号资源",
+      "name": "番号资源(卡切)",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1
+    },           
 
   { "key": "华为吧", "name": "test01", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "短剧", "冒险片", "剧情片", "动作片", "动画电影", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "歌舞片", "灾难片", "爱情片", "科幻片", "犯罪片", "经典片", "网络电影", "战争片", "伦理片", "欧美剧", "日剧", "韩剧", "台剧", "泰剧", "国产剧", "港剧", "新马剧", "其他剧", "欧美动漫", "日韩动漫", "国产动漫", "新马泰动漫", "港台动漫", "其他动漫", "国产综艺", "日韩综艺", "欧美综艺", "新马泰综艺", "港台综艺", "其他综艺", "纪录片" ]},
 
