@@ -55,6 +55,7 @@
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
+            "filterable": 1,
             "changeable": 1,
             "categories": [
                 "短剧",
