@@ -762,19 +762,6 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "ua": "wexfnw",
       "timeout": 10
-    },
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "lives",
-      "type": 0,
-      "url": "https://盒子迷.top/ZB",
-      "playerType": 1
     }
   
   ],
