@@ -752,7 +752,19 @@
                    ],
 
 
-"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[
+     {
+    "name": "🏠RobYang| http://RobYang.rr.nu",
+    "type": 0,
+    "url": "http://www1.RobYang.rr.nu/VodLive/lb8ffa",  
+    "ua": "okhttp/4.12.0",
+    "ext":{"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR": "127.0.0.1"}},
+    "timeout": 5,
+     "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
+  }
+  
+  ],
    
     
 
