@@ -766,7 +766,7 @@
     {
       "name": "甜皮鸭",
       "type": 0,
-      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737651956313/tptv.m3u",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "ua": "wexfnw",
