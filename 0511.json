@@ -3,7 +3,7 @@
     "spider ": "http://52bsj.vip:81/api/v3/file/get/23451/18.jar?sign=cCPHNxilN-Sc0TrzjkjTyk7vaqnSJYNaj10iyemLalc%3D%3A0 ",
 
 
-    "video": {
+   
         "sites": [
             {
                 "key ": "* 麻豆 ",
@@ -1467,39 +1467,8 @@
                 "api": "./caiji.js",
                 "ext": "http://fhapi9.com/api.php/provide/vod/at/json"
             }
-        ]
-    },
-    "read": {
-        "sites": [
-            {
-                "key": "bookan",
-                "name": "🎧博看",
-                "type": 10,
-                "api": "bookan_open.js"
-            },
-            {
-                "key": "laobai",
-                "name": "⚾老白",
-                "type": 10,
-                "api": "lbgs_open.js"
-            },
-            {
-                "key": "230ts",
-                "name": "♥爱上",
-                "type": 10,
-                "api": "230ts_book_open.js"
-            },
-            {
-                "key": "dj0898",
-                "name": "🥏听歌",
-                "type": 10,
-                "api": "dj0898_book_open.js"
-            }
-        ]
-    },
-
-
-
+        ],
+    
     "parses ": [
         {
             "name ": "解析聚合 ",
