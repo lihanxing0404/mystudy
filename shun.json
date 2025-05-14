@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://maoyingshi.cc/api.php",
-    "spider": "https://github.com/piaoyoulangzi/H-/raw/refs/heads/main/xyqxbpq.jar",
+    "spider": "https://raw.bgithub.xyz/qist/tvbox/master/xiaosa/spider.jar",
     "sites": [
         {
             "key": "你好帅影院",
@@ -10,7 +10,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -26,7 +26,7 @@
             "key": "热播影视",
             "name": "🤖热播｜影视",
             "type": 3,
-            "jar": "https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/master/xiaosa/spider.jar",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 0,
@@ -39,7 +39,7 @@
             "key": "天天影视",
             "name": "🤖天天｜影视",
             "type": 3,
-            "jar": "https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/master/xiaosa/spider.jar",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 0,
@@ -52,7 +52,7 @@
             "key": "浪酷影视",
             "name": "🤖浪酷｜影视",
             "type": 3,
-            "jar": "https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/master/xiaosa/spider.jar",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 0,
