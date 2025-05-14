@@ -11,6 +11,130 @@
             "filterable": 0,
             "api": "./lib/lf_search3_min.js"
         },
+
+
+
+    {
+      "key": "🔱1.24更新",
+      "name": "🔱1.24更新",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "欧美剧",
+        "犯罪片",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+
+  
+    
+    {
+      "key": "🔱｜专线⑤🏅",
+      "name": "🔱｜专线⑤🏅",
+      "type": 3,
+      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjys2.js"
+    },
+    {
+      "key": "🔱｜专线⑩🏅",
+      "name": "🔱｜专线⑩🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy5.json"
+    },
+    {
+      "key": "🔱｜专线⑪🏅",
+      "name": "🔱｜专线⑪🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy6.json"
+    },
+    
+    {
+      "key": "🔱官源｜腾讯🏅",
+      "name": "🔱官源｜腾讯🏅",
+      "type": 3,
+      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/腾讯视频.js"
+    },
+    {
+      "key": "🔱官源｜爱奇艺🏅",
+      "name": "🔱官源｜爱奇艺🏅",
+      "type": 3,
+      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/奇艺视频.js"
+    },
+    {
+      "key": "🔱官源｜优酷🏅",
+      "name": "🔱官源｜优酷🏅",
+      "type": 3,
+      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/优酷视频.js"
+    },
+    {
+      "key": "🔱官源 | 360🏅",
+      "name": "🔱官源 | 360🏅",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": " https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/360影视.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    
+    {
+      "key": "meowtv_jpyy",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/js/荐片影视.js"
+    },
+   
+
+
+
         {
             "key": "黑木耳",
             "name": "神速 | 影视",
