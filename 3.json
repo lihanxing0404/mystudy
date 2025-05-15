@@ -44,14 +44,14 @@
                 "简介": "detail-desc\">&&</p>",
                 "倒序": "0"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_XBPQ_老王影视",
             "name": "6♨️老王影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -75,7 +75,7 @@
             "name": "7✨PTT短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -132,7 +132,7 @@
             "name": "8✨天龙短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -162,7 +162,7 @@
             "name": "9♨️飞快TV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -178,7 +178,7 @@
             "name": "10♨️皮皮蛋",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -193,7 +193,7 @@
             "name": "11♨️小红影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -221,7 +221,7 @@
                 "分类url": "https://www.yuenjinggong.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#动画片$donghuapian#邵氏电影$shaoshi#伦理电影$lilun#演唱会$yanchanghui#电影解说$dianyingjieshuo"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "黑夜影视",
@@ -232,7 +232,7 @@
             "filterable": 1,
             "changeable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "搜索url": "https://www.darkvod.cc/tag/?wd={wd}&submit=",
                 "线路标题": "[不包含:海外看资源#高清云播放器]",
@@ -280,14 +280,14 @@
                 "主演": "演员:</div>&&</div>",
                 "简介": "detail-desc\">&&</p>"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_XBPQ_游子视频",
             "name": "15♨️游子视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -306,7 +306,7 @@
             "name": "16♨️狐狸君｜4K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 0,
@@ -338,7 +338,7 @@
             "name": "17♨️可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -433,7 +433,7 @@
                 "分类url": "https://www.kkys1.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6#今日更新$https://www.kkys1.com/label/new.html"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "2077影视",
@@ -455,7 +455,7 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$41#🔞18$20",
                 "类型": "动作片$7#喜剧片$6#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#犯罪片$21#冒险片$22#动画片$23#记录片$5#悬疑片$39||内地剧$13#台剧$14#港剧$15#日剧$16#韩剧$24#泰剧$26#欧美剧$25#其它$40||国产动漫$33#日本动漫$34#欧美动漫$35#其它动漫$36||大陆综艺$27#港台综艺$28#日本综艺$29#韩国综艺$30#欧美综艺$31#其它综艺$32||无||无||无"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "drpy_xbpq_毒舌影视",
@@ -466,7 +466,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "数组": "module-item&&/span>",
                 "副标题": "<span>&&<",
@@ -494,7 +494,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://ysys602.xyz/",
@@ -513,7 +513,7 @@
             "name": "黑料",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -823,7 +823,7 @@
                 "副标题": "蓝光+item-bottom\"> <span>&&</span>",
                 "链接": "href=\"&&\""
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "03影院https://www.03yy.live",
@@ -844,7 +844,7 @@
                 "分类url": "https://www.03yy.live/{cateId}-{catePg}.html",
                 "分类": "电影$https://www.03yy.live/movies.html#电视剧$https://www.03yy.live/tv.html#动漫$https://www.03yy.live/dongman.html#综艺$https://www.03yy.live/zongyi.html#短剧$type/index48#🎬豆瓣电影Top250$topiclist/1#🎬奥斯卡最佳影片$topiclist/17#🎬网飞专场$topiclist/24#🎬热映电影$topiclist/25#🎬96奥斯卡奖$https://www.03yy.co/topiclist/23.html#🎞动作片$type/index5#🎞喜剧片$type/index10#🎞爱情片$type/index6#🎞科幻片$type/index7#🎞恐怖片$type/index8#🎞战争片$type/index9#🎞剧情片$type/index12#🎞动画片$type/index25#🎞大陆剧$type/index13#🎞欧美剧$type/index27#🎞韩国剧$type/index26#🎞香港剧$type/index14#🎞台湾剧$type/index46#🎞日本剧$type/index16#🎞泰国剧$type/index47#🎞海外剧$type/index28#🎥经典韩剧（国语）$topiclist/19#🎥经典港剧（粤语）$topiclist/18#🎥经典美剧（英语）$topiclist/21#🎥大陆动漫$type/index33#🎥日韩动漫$type/index34#🎥欧美动漫$type/index35#🎥少儿动画$type/index64#🎥大陆综艺$type/index29#🎥港台综艺$type/index30#🎥日韩综艺$type/index31#🎥欧美综艺$type/index32"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
        
         {
@@ -894,7 +894,7 @@
             "name": "28♨️VS影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -912,7 +912,7 @@
             "name": "29🎃南瓜影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -929,7 +929,7 @@
             "name": "30♻️鲨鱼影视┃秒看",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -967,7 +967,7 @@
             "name": "31♻️奇优影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -986,7 +986,7 @@
             "name": "32♨️剧剧吧",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1004,7 +1004,7 @@
             "name": "33♨️云播短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1022,7 +1022,7 @@
             "name": "34♨️若片电影",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1040,7 +1040,7 @@
             "name": "35♨️好剧屋",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1060,7 +1060,7 @@
             "name": "36♨️短剧网",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1083,7 +1083,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1109,7 +1109,7 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "类型": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12||国产剧$13#港台剧$14#欧美剧$15#韩剧$16#日剧$27#泰剧$29#海外剧$30#爽文短剧$39||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_成全影视",
@@ -1119,7 +1119,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1138,7 +1138,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1157,7 +1157,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "搜索url": "/https://www.dsxysproo.com/dqvodsearch/{wd}-------------.html",
                 "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -1173,7 +1173,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1191,7 +1191,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1209,7 +1209,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1230,7 +1230,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "数组": "<a&&</a>",
@@ -1250,7 +1250,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "搜索url": "http://www.wuyevod.com/vodsearch/-------------.html?wd={wd}",
                 "播放数组": " <ul class=\"row ewave-tab-content ewave-playlist-content ewave-playlist-sort-content\" id=\"ewave-playlist-1\">&&</ul> ",
@@ -1274,14 +1274,14 @@
                 "分类": "电影$movie#电视剧$Series#综艺$variety#动漫$cartoon#短剧$duanju",
                 "分类url": "https://www.rarbt.fun/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_XBPQ_私人影视",
             "name": "♨️私人影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1301,7 +1301,7 @@
             "name": "♨️流光影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1318,7 +1318,7 @@
             "name": "🍞面包影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1336,7 +1336,7 @@
             "name": "♨️水晶影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1353,7 +1353,7 @@
             "name": "♨️打工人",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1370,7 +1370,7 @@
             "name": "♨️影视控",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1389,7 +1389,7 @@
             "name": "♨️真不卡",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1409,7 +1409,7 @@
             "name": "♨️雨见蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1435,7 +1435,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1462,7 +1462,7 @@
             "name": "♨️LIBVIO影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1482,7 +1482,7 @@
             "name": "🎆LIBVIO电影",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1502,7 +1502,7 @@
             "name": "♨️木瓜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1518,7 +1518,7 @@
             "name": "♨️人人影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1534,7 +1534,7 @@
             "name": "♨️飞飞蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1605,7 +1605,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "播放数组": "<div class=\"video_list fn-clear\">&&</div>",
                 "线路数组": "class=\"down-title\">&&</div>",
@@ -1621,7 +1621,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "主页url": "https://555zxdy.com/",
                 "搜索url": "https://555zxdy.com/vod/search.html?wd={wd}",
@@ -1637,7 +1637,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "播放标题": "📹+>&&</a>",
                 "播放链接": "http://www.mskg.cc/vplay/+/vplay/&&.html+.html",
@@ -1652,7 +1652,7 @@
             "name": "♨️统一影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1672,7 +1672,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "免嗅": "1",
                 "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
@@ -1693,7 +1693,7 @@
             "name": "♨️琪琪影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1724,14 +1724,14 @@
                 "分类url": "https://www.kjbkjb.com/cat/?{cateId}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "轨道",
             "name": "♨️轨道影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1748,7 +1748,7 @@
             "name": "♨️影视┃大全",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1773,7 +1773,7 @@
             "name": "🙀乌猫┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1790,7 +1790,7 @@
             "name": "🗽纽约┃影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1816,7 +1816,7 @@
             "name": "👨‍👨‍👧一起看┃app",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1838,7 +1838,7 @@
             "name": "🍧雪糕影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1875,7 +1875,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -1893,7 +1893,7 @@
             "name": "🐘森林┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1914,7 +1914,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "",
                 "主页url": "https://www.pipiysb.com/",
@@ -1970,14 +1970,14 @@
                 "分类url": "https://freeys.org/menu/{catePg}/{cateId}/{class}/{year}/{area}/0/0",
                 "倒序": "1"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "ptt",
             "name": "🌈PTT视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2000,7 +2000,7 @@
             "name": "禁",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2018,7 +2018,7 @@
             "name": "最最",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2035,7 +2035,7 @@
             "name": "精品",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2059,7 +2059,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "style": {
                 "ratio": 1.7
             },
@@ -2088,14 +2088,14 @@
                 "分类": "国产视频$6#国产自拍$7#国产偷拍$8#网红主播$9#清纯学生$10#国产探花$36#少妇淫妻$21#明星换脸$11#国产传媒$12#亚洲专区$22#日韩无码$23#欧美无码$24#中文字幕$25#三级伦理$26#卡通动漫$27#巨乳美乳$28#强奸乱伦$29#制服丝袜$30#少女萝莉$31#人妻熟女$32#群交口交$33#日本素人$37#高清名优$38",
                 "排序": "今日点击排行$hot#本周排行$hits_week#本月排行$hits_month"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_茄子视频",
             "name": "茄子视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2115,7 +2115,7 @@
             "name": "无限臀山",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -2423,7 +2423,7 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$42",
                 "类型": "动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$12#战争片$9#记录片$25||国产剧$13#港台剧$14#日剧$27#欧美剧$15#泰国剧$29#海外剧$30||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38||无"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
        
        
@@ -2442,7 +2442,7 @@
                 "分类": "电影$1#电视$2#综艺$3#动漫$4",
                 "类型": "动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$12#战争片$9#记录片$25||国产剧$13#港台剧$14#日剧$27#欧美剧$15#泰国剧$29#海外剧$30||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
        
         {
@@ -2452,7 +2452,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "filterable": 1,
             "ext": {
                 "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
@@ -2484,7 +2484,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/Yoursmile.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "filterable": 1,
             "ext": {
                 "简介": "product-excerpt\">剧情简介：&&</span>",
@@ -2516,7 +2516,7 @@
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#记录片$jilupian",
                 "类型": "动作片$dzp#科幻片$khp#战争片$zzp#恐怖片$kbp#喜剧片$xjp#爱情片$aqp#剧情片$jqp||国产剧$gcj#热门短剧$rmdj#港台剧$gtj#日韩剧$rhj#海外剧$hwj||无||空||无"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
             "key": "csp_农民影视",
@@ -2533,7 +2533,7 @@
                 "分类url": "https://www.gymboreejn.com/vodtype/{cateId}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$31#影视解说$32#邵氏电影$39"
             },
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         }
         
        
