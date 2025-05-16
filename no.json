@@ -118,31 +118,7 @@
                 "纪录片"
             ]
         },
-        {
-            "key": "Bt_PH",
-            "name": "🅱️BT天堂(PQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 0,
-            "playerType": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
-            "ext": {
-                "主页url": "https://www.bttt11.com/",
-                "数组": "class=\"col-md-6\">&&</li>",
-                "副标题": "span>更新时间：&&<a",
-                "简介": "<p>◎简*介&&<p>◎影片截图</p>",
-                "起始页": 0,
-                "线路标题": "磁力",
-                "搜索请求头参数": "User-Agent$PC_UA",
-                "搜索url": "https://www.bttt11.com/e/search/;post",
-                "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
-                "分类url": "https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
-                "分类": "大陆电影&港台电影&欧美电影&欧美剧&日韩剧&日韩电影&动漫&亚太剧&畅太电影&综艺&畅影纪录片",
-                "分类值": "4&3&1&6&7&2&11&10&5&12&13"
-            }
-        },
+        
         {
             "key": "csp_xpath_lenxitv",
             "name": "冷曦影视(XPF)",
