@@ -233,7 +233,7 @@
         {
             "key": "量子",
             "name": "🌼量子资源",
-            "type": 0,
+            "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
