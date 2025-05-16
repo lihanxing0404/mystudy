@@ -9,7 +9,7 @@
        
         {
             "key": "毒舌推荐",
-            "name": "5♨️毒舌推荐",
+            "name": "1♨️毒舌推荐",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -48,7 +48,7 @@
         },
         {
             "key": "csp_XBPQ_老王影视",
-            "name": "6♨️老王影视",
+            "name": "2♨️老王影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -72,7 +72,7 @@
         },
         {
             "key": "✨PTT短剧✨",
-            "name": "7✨PTT短剧✨",
+            "name": "3✨PTT短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -129,7 +129,7 @@
         },
         {
             "key": "✨天龙影院✨",
-            "name": "8✨天龙短剧✨",
+            "name": "4✨天龙短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -159,7 +159,7 @@
         },
         {
             "key": "飞快TV",
-            "name": "9♨️飞快TV",
+            "name": "5♨️飞快TV",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -175,7 +175,7 @@
         },
         {
             "key": "皮皮蛋",
-            "name": "10♨️皮皮蛋",
+            "name": "6♨️皮皮蛋",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -190,7 +190,7 @@
         },
         {
             "key": "小红影视",
-            "name": "11♨️小红影视",
+            "name": "7♨️小红影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -209,7 +209,7 @@
       
         {
             "key": "csp_xBPQ_稻田影视",
-            "name": "12♨️稻田影视",
+            "name": "8♨️稻田影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -225,7 +225,7 @@
         },
         {
             "key": "黑夜影视",
-            "name": "13🎬黑夜影视",
+            "name": "9🎬黑夜影视",
             "type": 3,
             "searchable": 1,
             "quickSearch": 0,
@@ -243,7 +243,7 @@
         },
         {
             "key": "656",
-            "name": "14♨️梦想影视",
+            "name": "10♨️梦想影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -284,7 +284,7 @@
         },
         {
             "key": "csp_XBPQ_游子视频",
-            "name": "15♨️游子视频",
+            "name": "11♨️游子视频",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -303,7 +303,7 @@
         },
         {
             "key": "狐狸君",
-            "name": "16♨️狐狸君｜4K",
+            "name": "12♨️狐狸君｜4K",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -335,7 +335,7 @@
         },
         {
             "key": "♨️可可影视",
-            "name": "17♨️可可｜影视",
+            "name": "13♨️可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -419,7 +419,7 @@
         },
         {
             "key": "csp_可可影库",
-            "name": "18♨️可可影库",
+            "name": "14♨️可可影库",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -437,7 +437,7 @@
         },
         {
             "key": "2077影视",
-            "name": "19♨️2077影视",
+            "name": "15♨️2077影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -459,7 +459,7 @@
         },
         {
             "key": "drpy_xbpq_毒舌影视",
-            "name": "20♨️毒舌影视",
+            "name": "16♨️毒舌影视",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -488,7 +488,7 @@
 
         {
             "key": "youshou",
-            "name": "右手影院",
+            "name": "16右手影院",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -510,7 +510,7 @@
        
         {
             "key": "csp_XBPQ_91网曝黑料网",
-            "name": "黑料",
+            "name": "17黑料",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -530,7 +530,7 @@
        
         {
             "key": "精品采集",
-            "name": "精品X资源 ",
+            "name": "18精品资源 ",
             "type": 1,
             "api": "http://www.jingpinx.com/api.php/provide/vod/",
             "playerType": 2,
@@ -614,7 +614,7 @@
        
         {
             "key": "东资源",
-            "name": "j东资源",
+            "name": "东资源",
             "type": 1,
             "api": "http://chujia.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -700,7 +700,7 @@
         },
         {
             "key": "老色逼资源",
-            "name": "老色资源",
+            "name": "老s资源",
             "type": 1,
             "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -708,7 +708,7 @@
         },
         {
             "key": "https://www.caoliuzyw.com/",
-            "name": "草榴（直连）",
+            "name": "c榴（直连）",
             "type": 1,
             "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -768,7 +768,7 @@
         
         {
             "key": "老鸭2",
-            "name": "老鸭2",
+            "name": "老鸭",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
@@ -804,7 +804,7 @@
    
         {
             "key": " 网飞猫 ",
-            "name": "21😾网飞猫",
+            "name": "😾网飞猫",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -827,7 +827,7 @@
         },
         {
             "key": "03影院https://www.03yy.live",
-            "name": "22♨️03影院",
+            "name": "♨️03影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -849,7 +849,7 @@
        
         {
             "key": "360",
-            "name": "24👑360采集",
+            "name": "👑360采集",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -891,7 +891,7 @@
        
         {
             "key": "https://www.vsyingyuan.ccVS影院",
-            "name": "28♨️VS影院",
+            "name": "♨️VS影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -909,7 +909,7 @@
         },
         {
             "key": "🎃南瓜影院",
-            "name": "29🎃南瓜影院",
+            "name": "🎃南瓜影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -926,7 +926,7 @@
         },
         {
             "key": "鲨鱼影视",
-            "name": "30♻️鲨鱼影视┃秒看",
+            "name": "♻️鲨鱼影视┃秒看",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -964,7 +964,7 @@
         },
         {
             "key": "奇优影院",
-            "name": "31♻️奇优影院",
+            "name": "♻️奇优影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -1244,7 +1244,7 @@
         },
         {
             "key": "午夜电影院",
-            "name": "♨️午夜电影院",
+            "name": "♨️夜午电影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1997,7 +1997,7 @@
        
         {
             "key": "csp_https://18hr.life/label/sort",
-            "name": "禁",
+            "name": "斤禁",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -2032,7 +2032,7 @@
         },
         {
             "key": "csp_XBPQ_欧美日韩精品",
-            "name": "精品",
+            "name": "精了品",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -2052,7 +2052,7 @@
         },
         {
             "key": "麻豆",
-            "name": "麻豆",
+            "name": "豆麻",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -2112,7 +2112,7 @@
        
         {
             "key": "csp_XBPQ_无限臀山",
-            "name": "无限臀山",
+            "name": "无限山",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -2134,7 +2134,7 @@
        
         {
             "key": "36D蜜桃",
-            "name": "3蜜桃",
+            "name": "M桃",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
