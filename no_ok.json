@@ -1210,97 +1210,138 @@
 
 
         
-        {
-            "key": "drpy_js_奇珍异兽",
-            "name": "🎦爱奇艺(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
-
-        {
-            "key": "drpy_js_优酷",
-            "name": "🎦优酷(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
-
-        {
-            "key": "drpy_js_腾云驾雾",
-            "name": "🎦腾讯(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
-
-        {
-            "key": "drpy_js_百忙无果",
-            "name": "🎦芒果(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
-
-        {
-            "key": "drpy_js_菜狗",
-            "name": "🎦搜狗(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
-
-        {
-            "key": "drpy_js_360影视",
-            "name": "🎦360影视(官)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playUrl": "https://jx.xmflv.com/?url="
-        },
-
          {
-            "key": "csp_xpath_lenxitv",
-            "name": "冷曦影视(XPF)",
+            "key": "csp_xBPQ_tvb影视",
+            "name": "️🎇云播1",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.tvyb03.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/{catePg}/year/{year}.html"
+        },
+
+
+        {
+            "key": "csp_xBPQ_云播tv",
+            "name": "️🎇云播2",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.hktvyun.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html"
+        },
+
+
+          {
+            "key": "csp_xBPQ_旋风视频",
+            "name": "🌪旋风视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "ext": {
+                "简介": "col-md-4",
+                "标题": "class=mini rounded&&</a>",
+                "播放数组": "<div class=\"flex-grow-1 ms-3\">&&</div> ",
+                "播放线路": "<h6 class=\"fw-bold mb-0\">&&</h6>",
+                "直接播放": "0",
+                "搜索url": "https://miao101.com/search?q={wd}",
+                "主页url": "https://miao101.com/",
+                "分类url": "https://miao101.com/tag/{cateId}/{catePg}",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$5",
+                "类型": "动作片&喜剧片&科幻片&恐怖片&犯罪片&动漫片&剧情片&战争片&记录片||国产剧&香港剧&台湾剧&欧美剧&日剧&韩剧&泰剧||大陆综艺&港台综艺&日韩综艺&欧美综艺||国产动漫&港台动漫&日韩动漫&欧美动漫&其它动漫||足球&篮球&网球&斯诺克",
+                "类型值": "*"
+            }
+        },
+
+
+        {
+            "key": "csp_丹江电影网",
+            "name": "🚢丹江电影网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "author": "lexi",
-                "ua": "",
-                "主页url": "https://www.lenxitv.cc/",
-                "dcVipFlag": "true",
-                "dcPlayUrl": "true"
+                "主页url": "http://www.danjiangpiaoliu.com/",
+                "分类url": "http://www.danjiangpiaoliu.com/{cateId}/class/{class}/area/{area}/by/{by}/year/{year}/",
+                "分类": "电影$idianying#电视剧$ilianxuju#综艺$izongyi#动漫$idongman#风月片$ifengyuepian"
             }
         },
 
-           {
-            "key": "易看资源-伦理",
-            "name": "💖易看采集",
-            "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod/",
+
+        {
+            "key": "csp_xBPQ_猪猪影视",
+            "name": "🐖猪猪影视",
+            "type": 3,
+            "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "ext": {
+                "播放线路": "<li class=\"col-lg-3 col-md-2 col-sm-5 col-xs-4 active\">&&</li>",
+                "主页url": "https://www.zhuzhu2028.com/",
+                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "class=\"video-des\"&&</div>",
+                "线路标题": "data-toggle=\"tab\">&&</a>",
+                "分类url": "https://www.zhuzhu2028.com/vodtype/{cateId}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$40",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$20#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26||大陆综艺$30#港台综艺$31#日韩综艺$32#欧美综艺$33||国产动漫$34#日本动漫$35#欧美动漫$36#港台动漫$37#海外动漫$38#有声动漫$39||无"
+            }
+        },
+
+
+        {
+            "key": "xml_ok资源",
+            "name": "🦄ok资源",
+            "type": 1,
+            "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+
+
+        {
+            "key": "闪电资源",
+            "name": "🦄闪电资源",
+            "type": 1,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+
+
+        {
+            "key": "最大资源",
+            "name": "🦄最大资源",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+
+
+        {
+            "key": "快车资源",
+            "name": "🦄快车资源",
+            "type": 1,
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
         }
 
 
