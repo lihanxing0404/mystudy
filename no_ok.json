@@ -1342,7 +1342,206 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
+        },
+
+        {
+            "key": "csp_xpath_lenxitv",
+            "name": "冷曦影视(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "author": "lexi",
+                "ua": "",
+                "主页url": "https://www.lenxitv.cc/",
+                "dcVipFlag": "true",
+                "dcPlayUrl": "true"
+            }
+        },
+
+           {
+            "key": "易看资源",
+            "name": "💖易看采集",
+            "type": 1,
+            "api": "https://api.yikanapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+
+
+
+
+
+
+
+        {
+            "key": "csp_xBPQ_异界动漫",
+            "name": "️🎇异界动漫",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "播放链接前缀": "http://ysjdm88.com",
+                "分类": "电影$mov#电视剧$tv#动漫$acg#综艺$zongyi",
+                "分类url": "http://ysjdm88.com/{cateId}/"
+            }
+        },
+
+        {
+            "key": "4K动漫",
+            "name": "🎬4K动漫",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "搜索模式": "1",
+                "搜索url": "https://cn.agekkkk.com/search/-------------.html?wd=/{wd}",
+                "搜索数组": "<a &&</a>",
+                "搜索标题": "title=\"&&\"",
+                "搜索副标题": "<div>&&</div>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索链接前缀": "",
+                "搜索链接后缀": "",
+                "播放数组": "class=\"play-list-content\"&&</ul>",
+                "线路标题": "tab\">&&</a",
+                "分类": "日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3",
+                "分类url": "https://cn.agekkkk.com/type/{cateId}-{catePg}.html"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+        {
+            "key": "樱花动漫官方网站",
+            "name": "🌸樱花动漫官方网站1",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://yhdm123.com/",
+                "搜索url": "http://yhdm123.com/vodsearch/{wd}-------------.html",
+                "分类": "日本动漫$2#国产东漫$1#电影$4#欧美动漫$3#最新$/label/new.html",
+                "分类url": "http://yhdm123.com/type/{cateId}-{catePg}.html"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+        {
+            "key": "樱花动漫网站",
+            "name": "🌸樱花动漫网站2",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.dmttang.com/",
+                "搜索url": "https://www.dmttang.com/vodsearch/{wd}-------------.html",
+                "分类": "日本动漫$2#国产东漫$6#电影$4#欧美动漫$3",
+                "分类url": "https://www.dmttang.com/vodtype/{cateId}/{catePg}.html"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+        {
+            "key": "动漫岛",
+            "name": "🌸动漫岛",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://www.dmand5.com/",
+                "分类": "新番连载$1#热门国漫$4#剧场动漫$16#完结日漫$3",
+                "分类url": "http://www.dmand5.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-lang-.html",
+                "倒序": "1"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+
+        {
+            "key": "动漫网",
+            "name": "🎬动漫网",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.dongman8.cc/",
+                "搜索url": "https://www.dongman8.cc/vodsearch/{wd}-------------.html",
+                "分类": "日本动漫$2#国产东漫$1#动漫电影$4#欧美动漫$3",
+                "分类url": "https://www.dongman8.cc/vodtype/{cateId}-{catePg}.html"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+
+        {
+            "key": "哔咪动漫",
+            "name": "🎬哔咪动漫",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://m.dodoge.me/",
+                "搜索url": "http://m.dodoge.me/vod/search/{wd}/",
+                "分类": "新番放送$riman#国产东漫$guoman#电影$move#剧集$dianshiju#剧场动画$juchang#番组计划$fanzu",
+                "分类url": "http://m.dodoge.me/vodshow/{cateId}--{by}------{catePg}---{year}/"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+
+        {
+            "key": "第一👿动漫",
+            "name": "🎬第一👿动漫",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "播放数组": "<div class=\"scroll-content\">&&</div>",
+                "主页url": "https://1anime2024.com/",
+                "搜索url": "https://1anime2024.com/vodsearch/{wd}-------------.html",
+                "分类": "TV动画$1#剧场版$2#绅士$3#电影$4#短剧$21#3D$22#里番$20#热血$13#剧情$14#情感$15#其它$16",
+                "分类url": "https://1anime2024.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+            },
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+        },
+
+        {
+            "key": "第一动漫",
+            "name": "🐤第一 | 动漫",
+            "type": 3,
+            "api": "csp_AppYs",
+            "ext": "https://1anime2024.com/api.php/v1.vod"
         }
+     
 
 
         
