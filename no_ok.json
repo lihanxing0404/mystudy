@@ -1205,7 +1205,106 @@
                 "伦理片",
                 "影视解说"
             ]
+        },
+
+
+
+        
+        {
+            "key": "drpy_js_奇珍异兽",
+            "name": "🎦爱奇艺(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+
+        {
+            "key": "drpy_js_优酷",
+            "name": "🎦优酷(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+
+        {
+            "key": "drpy_js_腾云驾雾",
+            "name": "🎦腾讯(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+
+        {
+            "key": "drpy_js_百忙无果",
+            "name": "🎦芒果(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+
+        {
+            "key": "drpy_js_菜狗",
+            "name": "🎦搜狗(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+
+        {
+            "key": "drpy_js_360影视",
+            "name": "🎦360影视(官)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playUrl": "https://jx.xmflv.com/?url="
+        },
+
+         {
+            "key": "csp_xpath_lenxitv",
+            "name": "冷曦影视(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "author": "lexi",
+                "ua": "",
+                "主页url": "https://www.lenxitv.cc/",
+                "dcVipFlag": "true",
+                "dcPlayUrl": "true"
+            }
+        },
+
+           {
+            "key": "易看资源-伦理",
+            "name": "💖易看采集",
+            "type": 1,
+            "api": "https://api.yikanapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         }
+
+
+        
         
     ],
     "doh": [
