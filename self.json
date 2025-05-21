@@ -2,16 +2,11 @@
     "spider": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
     "wallpaper": "https://bing.img.run/uhd.php",
     "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext="
-                    ]
-                }
-            ]
+          {
+            "name": "lives",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/lihanxing0404/mystudy/master/iptv6.m3u",
+            "playerType": 1
         }
     ],
     "sites": [
