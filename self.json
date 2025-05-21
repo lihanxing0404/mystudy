@@ -1,10 +1,7 @@
 {
-      
-
-   "spider": "https://ghp.ci/https://raw.githubusercontent.com/yuanruiyang/tvbox/main/jar/摸鱼儿.jar",
-  
-  "sites": [
-    {
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/yuanruiyang/tvbox/main/jar/摸鱼儿.jar",
+    "sites": [
+        {
             "key": "久看电影-九八剧",
             "name": "👀久看┃电影",
             "type": 3,
@@ -36,11 +33,7 @@
                 "类型": "动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||国产剧$guocanju#港台剧$gangtaiju#欧美剧$oumeiju#日韩剧$rihanju#短剧$duanju||空||空"
             }
         },
-
-  
-  
-
-{
+        {
             "key": "Aries不承担任何风险-大象影视①",
             "name": "🐘大象①┃影视",
             "type": 3,
@@ -70,7 +63,6 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$12||日剧$26#海外剧$27#国产剧$13#港台剧$14#韩剧$15#美剧$16||空||空||空"
             }
         },
-
         {
             "key": "Aries不承担任何风险-四海影院",
             "name": "🌊四海┃影院",
@@ -100,10 +92,7 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32||女频恋爱$34#反转爽剧$35#古装仙侠$36#年代穿越$37#脑洞悬疑$38#现代都市$39"
             }
         },
-
-
-
-    {
+        {
             "key": "Aries不承担任何风险-樱花影视",
             "name": "🌸樱花┃影视",
             "type": 3,
@@ -134,12 +123,7 @@
                 "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
             }
         },
-        
-
-
-
-
-{
+        {
             "key": "Aries不承担任何风险-琥珀影院",
             "name": "🦋琥珀┃影院",
             "type": 3,
@@ -202,9 +186,7 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空"
             }
         },
-        
-
-{
+        {
             "key": "Aries不承担任何风险-火狼影视",
             "name": "🐺火狼┃影视",
             "type": 3,
@@ -263,8 +245,7 @@
                 "类型": "动作片$dongzuody#喜剧片$xijudy#科幻片$kehuandy#恐怖片$kongbudy#爱情片$aiqingdy#剧情片$juqingdy#战争片$zhanzhengdy#记录片$jiludy#预告片$yugaody||国产剧$guochantv#欧美剧$oumeitv#香港剧$xianggangtv#韩国剧$hanguotv#台湾剧$taiwantv#日本剧$ribentv#泰国剧$taiguotv#海外剧$haiwaitv||空||空||空"
             }
         },
-
-{
+        {
             "key": "Aries不承担任何风险-乐游影院",
             "name": "🎠乐游┃影院",
             "type": 3,
@@ -294,14 +275,7 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#网红短剧$40"
             }
         },
-
-
-
-        
-        
-    
-
-{
+        {
             "key": "韩剧看看",
             "name": "🇰🇷韩剧┃看看",
             "type": 3,
@@ -333,43 +307,239 @@
                 "语言值": "*"
             }
         }
-
-
-  ],
-  "doh": [
-  { "name": "Google", "url": "https://dns.google/dns-query", "ips": [ "8.8.4.4", "8.8.8.8" ] },
-  { "name": "Cloudflare", "url": "https://cloudflare-dns.com/dns-query", "ips": [ "1.1.1.1", "1.0.0.1", "2606:4700:4700::1111", "2606:4700:4700::1001" ] },
-  { "name": "AdGuard", "url": "https://dns.adguard.com/dns-query", "ips": [ "94.140.14.140", "94.140.14.141" ] },
-  { "name": "DNSWatch", "url": "https://resolver2.dns.watch/dns-query", "ips": [ "84.200.69.80", "84.200.70.40" ] },
-  { "name": "Quad9", "url": "https://dns.quad9.net/dns-quer", "ips": [ "9.9.9.9", "149.112.112.112" ] }
-                ],
-  "parses": [ 
-            { "name": "Json聚合", "type": 3, "url": "Demo" }, 
-            { "name": "Web聚合", "type": 3, "url": "Web" }, 
-            { "name": "肥猫最可爱", "type": 1, "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } } 
-          ],
-  "rules": [
-  { "name": "proxy", "hosts": [ "raw.githubusercontent.com", "googlevideo.com", "googleapis.com", "cdn.v82u1l.com", "cdn.iz8qkg.com", "cdn.kin6c1.com", "c.biggggg.com", "c.olddddd.com", "haiwaikan.com", "www.histar.tv", "youtube.com", "uhibo.com", ".*boku.*", ".*nivod.*", ".*ulivetv.*" ] },
-  { "name": "海外看", "hosts": [ "haiwaikan" ], "regex": [ "8.16", "8.1748", "10.0099", "10.3333", "10.85", "12.33", "16.0599" ] },
-  { "name": "索尼", "hosts": [ "suonizy" ], "regex": [ "15.1666", "15.2666" ] },
-  { "name": "暴風", "hosts": [ "bfzy" ], "regex": [ "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY" ] },
-  { "name": "星星", "hosts": [ "aws.ulivetv.net" ], "regex": [ "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY" ] },
-  { "name": "量子", "hosts": [ "vip.lz", "hd.lz", "v.cdnlz" ], "regex": [ "18.5333" ] },
-  { "name": "非凡", "hosts": [ "vip.ffzy", "hd.ffzy" ], "regex": [ "25.1" ] },
-  { "name": "火山嗅探", "hosts": [ "huoshan.com" ], "regex": [ "item_id=" ] },
-  { "name": "抖音嗅探", "hosts": [ "douyin.com" ], "regex": [ "is_play_url=" ] },
-  { "name": "農民嗅探", "hosts": [ "toutiaovod.com" ], "regex": [ "video/tos/cn" ] },
-  { "name": "七新嗅探", "hosts": [ "api.52wyb.com" ], "regex": [ "m3u8?pt=m3u8" ] },
-  { "name": "毛驢點擊", "hosts": [ "www.maolvys.com" ], "script": [ "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()" ] }
-                   ],
-
-
-"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-   
-    
-
-
-  "ads": [
-    "static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"
-  ]  
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "肥猫最可爱",
+            "type": 1,
+            "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "googleapis.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "8.16",
+                "8.1748",
+                "10.0099",
+                "10.3333",
+                "10.85",
+                "12.33",
+                "16.0599"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "暴風",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "星星",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "18.5333"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "25.1"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "甜皮鸭",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "timeout": 10
+        }
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv",
+        "s3t3d2y8.afcdn.net"
+    ]
 }
