@@ -19,22 +19,27 @@
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "主页url": "http://www.r7yy.com/",
-        "数组": "class=\"stui-vodlist__box stui-vodlist__bg&&</div>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "pic-text text-right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"stui-player__video&&</div>",
-        "播放列表": "<li&&</li>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</a>",
-        "线路数组": "class=\"stui-player__item&&</div>",
-        "线路标题": "data-from=\"&&\"",
-        "跳转播放链接": "player_1_url = '&&';", 
         "分类url": "http://www.r7yy.com/vod/type/id/{cateId}---{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#fl片$21#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16"
     }
-}
+},
+
+
+{
+            "key": "皮皮蛋",
+            "name": "10♨️皮皮蛋",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://cddys1.me/",
+                "分类url": "https://cddys1.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"
+            }
+        }
     
   ],
   "doh": [
