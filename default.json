@@ -3,14 +3,12 @@
 
    "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
   
-  "sites": [
-
-
-        {
-    "key": "青苹果影视",
-    "name": "🍏青苹果影院",
+  "sites": [   
+{
+    "key": "R7YY影视",
+    "name": "R7YY影视",
     "type": 3,
-    "api": "csp_XBPQ",
+    "api": "csp_R7YY",
     "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
     "searchable": 1,
     "quickSearch": 1,
@@ -19,20 +17,20 @@
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "主页url": "http://www.r7yy.com/",
-        "数组": "class=\"stui-vodlist__box&&</div>",
+        "数组": "class=\"stui-vodlist__box stui-vodlist__bg&&</div>",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
         "副标题": "pic-text text-right\">&&</span>",
         "链接": "href=\"&&\"",
-        "播放数组": "class=\"stui-vodlist__detail&&</div>",
-        "播放列表": "<a&&a>",
+        "播放数组": "class=\"stui-player__video&&</div>",
+        "播放列表": "<li&&</li>",
         "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
-        "线路标题": "alt=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://www.r7yy.com/vod/type/id/{cateId}---{catePg}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$21#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16"
+        "播放标题": ">&&</a>",
+        "线路数组": "class=\"stui-player__item&&</div>",
+        "线路标题": "data-from=\"&&\"",
+        "跳转播放链接": "player_1_url = '&&';",
+        "分类url": "http://www.r7yy.com/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "首页$home#电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#福利片$21"
     }
 }
 
