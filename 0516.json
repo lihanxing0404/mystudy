@@ -327,7 +327,7 @@
     "ext": {
             "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://www.r7yy.com/",
+                "主页url": "http://www.r7yy.com/",
                 "二次截取": "stui-vodlist clearfix&&</ul>",
                 "数组": "lazyload\"&&</a >",
                 "标题": "title=\"&&\"",
