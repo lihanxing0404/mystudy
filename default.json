@@ -74,7 +74,7 @@
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://budafun.cc/",
+                "主页url": "https://badafun.cc/",
                 "数组": "默认--class=\"image\"&&</li>||搜索--class=\"image\"&&</li>",
                 "链接": "默认--href=\"&&\"||搜索--href=\"&&\"",
                 "图片": "默认--data-original=\"&&\"||搜索--data-original=\"&&\"",
@@ -87,9 +87,9 @@
                 "线路数组": "glyphicon-play&&</li>",
                 "线路标题": "</span>&&</a >",
                 "跳转播放链接": "var cms_player*\"url\":\"&&\"",
-                "搜索url": "https://budafun.cc/search/{wd}/{pg}.html",
+                "搜索url": "https://badafun.cc/search/{wd}/{pg}.html",
                 "分类": "新旧番剧$3#在线动漫$2#动漫电影$5#里番$10",
-                "分类url": "https://budafun.cc/iProId/{cateId}-{class}--{year}---addtime-{catePg}.html"
+                "分类url": "https://badafun.cc/iProId/{cateId}-{class}--{year}---addtime-{catePg}.html"
             }
         
 
