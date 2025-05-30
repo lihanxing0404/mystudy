@@ -62,6 +62,7 @@
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "http://www.r7yy.com/vod/show/area/#{area}/by/#{by}/id/#{class}/page/#{page}/year/#{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$21#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#国产$13#港台$14#日韩$15#欧美$16"
+                }
     },
 
     {
@@ -90,9 +91,9 @@
                 "分类": "新旧番剧$3#在线动漫$2#动漫电影$5#里番$10",
                 "分类url": "https://budafun.cc/iProId/{cateId}-{class}--{year}---addtime-{catePg}.html"
             }
-        }
+        
 
-}
+        }
     ],
     "doh": [
         {
