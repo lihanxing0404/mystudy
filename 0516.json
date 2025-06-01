@@ -1450,7 +1450,8 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-        {
+
+       {
             "key": "03影院https://www.03yy.live",
             "name": "♨️03影院",
             "type": 3,
@@ -1467,11 +1468,12 @@
                 "线路标题": "极速蓝光",
                 "搜索url": "https://www.03yy.live/search.php?searchword={wd}",
                 "分类url": "https://www.03yy.live/{cateId}-{catePg}.html",
-                "分类": "电影$https://www.03yy.live/movies.html#电视剧$https://www.03yy.live/tv.html#动漫$https://www.03yy.live/dongman.html#综艺$https://www.03yy.live/zongyi.html#短剧$type/index48#🎬豆瓣电影Top250$topiclist/1#🎬奥斯卡最佳影片$topiclist/17#🎬网飞专场$topiclist/24#🎬热映电影$topiclist/25#🎬96奥斯卡奖$https://www.03yy.co/topiclist/23.html#🎞动作片$type/index5#🎞喜剧片$type/index10#🎞爱情片$type/index6#🎞科幻片$type/index7#🎞恐怖片$type/index8#🎞战争片$type/index9#🎞剧情片$type/index12#🎞动画片$type/index25#🎞大陆剧$type/index13#🎞欧美剧$type/index27#🎞韩国剧$type/index26#🎞香港剧$type/index14#🎞台湾剧$type/index46#🎞日本剧$type/index16#🎞泰国剧$type/index47#🎞海外剧$type/index28#🎥经典韩剧（国语）$topiclist/19#🎥经典港剧（粤语）$topiclist/18#🎥经典美剧（英语）$topiclist/21#🎥大陆动漫$type/index33#🎥日韩动漫$type/index34#🎥欧美动漫$type/index35#🎥少儿动画$type/index64#🎥大陆综艺$type/index29#🎥港台综艺$type/index30#🎥日韩综艺$type/index31#🎥欧美综艺$type/index32"
+                "分类": "电影$type/index1#电视剧$type/index2#动漫$type/index4#综艺$type/index3#纪录片$type/index11#福利$type/index66#豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#96届奥斯卡奖$topiclist/23.html#经典韩剧（$topiclist/19#经典港剧$topiclist/18#经典美剧$topiclist/21#格斗$topiclist/16#奇幻$topiclist/15#僵尸$topiclist/6#犯罪$topiclist/5#烧脑$topiclist/4#灾难$topiclist/8#爱情$topiclist/7#top100$topiclist/9#人物传记$topiclist/11#历史人物传记$topiclist/12#励志$topiclist/14#飙车$topiclist/13#短剧$type/index48#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-       
+
+
         {
             "key": "360",
             "name": "👑360采集",
