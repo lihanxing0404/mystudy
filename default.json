@@ -50,7 +50,7 @@
                 "编码": "UTF-8",
                 "主页url": "http://www.5nj.tv/",
                 "搜索url": "https://www.5nj.tv/cechi8search/{wd}-------------.html",
-                 "分类url": "https://www.5nj.tv/cechi8show/{cateId}-{catePg}.html",
+                 "分类url": "https://www.5nj.tv/cechi8type/{cateId}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$27"               
             }
         },
