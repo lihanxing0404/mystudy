@@ -49,32 +49,9 @@
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "http://www.5nj.tv/",
-                "二次截取": "module-main module-page&&page-link page-previous",
-
-                
-                "数组": "lazyload\"&&</a>",
-                
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "线路数组": "<h3&&h3>",
-                "线路标题": "title\">&&</",
-               
-                "播放数组": "playlist clearfix&&</ul>",
-                "播放列表": "<li&&li>",
-                "标题": "module-poster-item-title&&</div>",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-
-
-
-
-
                 "搜索url": "https://www.5nj.tv/cechi8search/{wd}-------------.html",
-                "线路标题": "",
                 "分类url": "https://www.5nj.tv/cechi8show/{cateId}-{area}---{lang}-------{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$27"
-                
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$27"               
             }
         },
 
