@@ -16,6 +16,8 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
                 "主页url": "https://www.03yy.live/",
                 "副标题": "极速蓝光",
                 "影片地区": "",
@@ -28,6 +30,9 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
+
+
+
 
 {
             "key": "Aries不承担任何风险-大象影视①",
