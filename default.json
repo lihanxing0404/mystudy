@@ -27,8 +27,15 @@
                 "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://ks-ydk.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,https://ks-ydk.com/zixun/{cateId}-{catePg}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$36#网红短剧$30"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$36#网红短剧$30",
+                "分类url": [
+                    "https://ks-ydk.com/show/1-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+                    "https://ks-ydk.com/show/2-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+                    "https://ks-ydk.com/show/3-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+                    "https://ks-ydk.com/show/4-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
+                    "https://ks-ydk.com/zixun/36-{catePg}.html", 
+                    "https://ks-ydk.com/show/30-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" 
+                ]
             }
         },
 
