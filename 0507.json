@@ -14,11 +14,11 @@
     "ext": {
             "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "http://www.r7yy.com/",
+                "主页url": "http://www.z5yy.top/",
                 
-                "搜索url": "http://www.r7yy.com/vod/search.html?wd={wd}&submit=",
+                "搜索url": "http://www.z5yy.top/vod/search.html?wd={wd}&submit=",
                 
-                "分类url": "http://www.r7yy.com/vod/show/id/21/page/#{page}.html",
+                               "分类url": "http://www.z5yy.top/vod/show/area/#{area}/by/#{by}/id/#{class}/page/#{page}/year/#{year}.html",
 
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36",
                 }
