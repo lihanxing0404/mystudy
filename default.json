@@ -1,6 +1,9 @@
 {
     "spider": "https://ghp.ci/https://raw.githubusercontent.com/yuanruiyang/tvbox/main/jar/摸鱼儿.jar",
     "sites": [
+
+
+
         {
             "key": "Aries不承担任何风险-樱花影视",
             "name": "🌸樱花┃影视",
@@ -33,6 +36,11 @@
                 "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
             }
         },
+
+    {"key": "91電影網","name": "🍖｜九一電影網｜獨創","type": 3,"spider":"https://github.jiexi.de/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PG.jar","jar": "https://github.jiexi.de/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {    "请求头": "User-Agent$MOBILE_UA",    "编码": "gb2312",    "主页url": "http://m.aogetu.com/",    "播放数组": "plau-ul-list&&</ul>",    "播放列表": "<a&&a>",    "播放链接": "href='&&'",    "播放标题": "_blank\">&&<",    "嗅探词": "index.m3u8?",    "分类url": "http://m.aogetu.com/wuyejuchang/{cateId}/index{catePg}.html[http://m.aogetu.com/wuyejuchang/{cateId}/]",    "分类": "倫理$lunli#寫真$xiezhen#主播$zhubo"}    }, 
+
+
+    {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "https://github.jiexi.de/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}}, 
 
 
         {
