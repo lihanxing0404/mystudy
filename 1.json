@@ -7,48 +7,7 @@
     
   { "key": "黑木耳", "name": "神速 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片","日本动漫","国产动漫","欧美动漫","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺"]},
 
- {
-"key": "csp_XYQHiker_动漫巴士",
-"name":"🚌动漫巴士(XYQH)",
-"type":3,
-"api":"csp_XYQHiker",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{
-    
-    "请求头": "User-Agent$MOBILE_UA",
-     "编码": "UTF-8",
-      "主页url": "https://dm84.tv",
-    "首页列表数组规则": "body&&.v_list",
-    "首页片单列表数组规则": "li",
-    "分类链接": "https://dm84.tv/list-{cateId}-{catePg}.html[firstPage=https://dm84.tv/list-{cateId}.html]",
-    "分类名称": "国产动漫&日本动漫&欧美动漫&动漫电影",
-    "分类名称替换词": "1&2&3&4",
-    "筛选排序名称": "时间&人气&评分",
-    "筛选排序替换词": "time&hits&score",
-    "分类截取模式": "1",
-    "分类列表数组规则": ".v_list&&li",
-    "分类片单是否Jsoup写法": "1",
-    "分类片单标题": "a&&title!在线观看",
-    "分类片单链接": "a&&href",
-    "分类片单图片": ".lazy&&data-bg",
-    "分类片单副标题": ".desc&&Text",
-    "搜索url": "https://dm84.tv/s-{wd}---------{SearchPg}.html",
-    "搜索列表数组规则": ".v_list&&li",
-    "搜索片单图片": ".lazy&&data-bg",
-    "搜索片单标题": "a&&title!在线观看",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": ".desc&&Text",
-    "搜索片单链接加前缀": "https://dm84.tv",
-    "简介详情": ".intro&&-p&&Text",
-    "线路列表数组规则": ".play_from&&li",
-    "线路标题": "Text",
-    "播放列表数组规则": ".tab_content&&.play_list",
-    "选集列表数组规则": "a"
-},
-
-
+ 
 
 
   
