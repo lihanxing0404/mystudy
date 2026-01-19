@@ -644,7 +644,13 @@
                    ],
 
 
-"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives ": [{
+	"name": "live",
+	"type": 0,
+	"url": "https://szyyds.cn/tv/live/x.txt",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+	"logo": "https://epg.112114.xyz/logo/{name}.png"
+}],
    
     
 
