@@ -2174,21 +2174,10 @@
     {
       "name": "ITV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "url": "https://raw.githubusercontent.com/lihanxing0404/mystudy/master/live_test.m3u",
       "playerType": 1
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
     }
+   
   ],
     "ads": [
         "static-mozai.4gtv.tv",
