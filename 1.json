@@ -6,31 +6,6 @@
   "sites": [
 
   
-  {
-            "key": "03影院https://www.03yy.live",
-            "name": "♨️03影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.03yy.live/",
-                "副标题": "极速蓝光",
-                "影片地区": "",
-                "简介": "+<p>&&</p>",
-                "线路数组": "onclick=&&</li>",
-                "线路标题": "极速蓝光",
-                "搜索url": "https://www.03yy.live/search.php?searchword={wd}",
-                "分类url": "https://www.03yy.live/{cateId}-{catePg}.html",
-                "分类": "电影$type/index1#电视剧$type/index2#动漫$type/index4#综艺$type/index3#纪录片$type/index11#豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#96届奥斯卡奖$topiclist/23.html#经典韩剧$topiclist/19#经典港剧$topiclist/18#经典美剧$topiclist/21#格斗$topiclist/16#奇幻$topiclist/15#僵尸$topiclist/6#犯罪$topiclist/5#烧脑$topiclist/4#灾难$topiclist/8#爱情$topiclist/7#top100$topiclist/9#人物传记$topiclist/11#历史人物传记$topiclist/12#励志$topiclist/14#飙车$topiclist/13#短剧$type/index48#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
-
-
 
 
 {
@@ -130,71 +105,6 @@
    
 
 
-
-        {
-            "key": "Aries不承担任何风险-555电影",
-            "name": "5️⃣555┃电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.555zxdy.com/",
-                "数组": "/vod/detail/&&class=\"icon-play\">",
-                "链接": "/vod/detail/+&&\"",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "note\">&&</div>",
-                "播放数组": "module-play-list-content&&</div>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": "<span>&&</span>",
-                "线路数组": "module-tab-item tab-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "跳转播放链接": "urlDecode(Base64(var player_*url\":\"&&\"))",
-                "简介": "<p>&&</p>",
-                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$45",
-                "分类url": "https://www.555zxdy.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-                "类型": "动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#悬疑$35#冒险$36#动漫$37#记录$20||国产剧$13#港剧$21#台剧$14#短剧$45#韩剧$15#日剧$23#泰剧$22#美剧$16#海外剧$34||内地$30#港台$31#日韩$32#欧美$33||内地$25#港台$26#日韩$27#欧美$28#海外$29||空"
-            }
-        },
-
-
-
-
-{
-            "key": "Aries不承担任何风险-琥珀影院",
-            "name": "🦋琥珀┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.csjrjypx.com/",
-                "数组": "lazyload\"&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "right\">&&<",
-                "链接": "href=\"&&\"",
-                "简介": "简介：&&</p>",
-                "线路数组": "playlist&&</li>",
-                "线路标题": ">&&</a[排序:华为云]",
-                "播放数组": "playlist clearfix&&</ul>",
-                "倒序": "0",
-                "播放列表": "<a&&a>",
-                "播放标题": ">&&</",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.csjrjypx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#网红短剧$34#午夜剧场$33",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32||空||空"
-            }
-        },
         {
             "key": "Aries不承担任何风险-全民影院1",
             "name": "👩🏻‍🌾全民┃影院",
@@ -228,65 +138,6 @@
         },
         
 
-{
-            "key": "Aries不承担任何风险-火狼影视",
-            "name": "🐺火狼┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "class=\"list-pics part-2by3\"&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "url=&&\"",
-                "副标题": "remarks\">&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "text-muted pnxs-10px lhxs-30px\"&&</p>",
-                "线路数组": "btns-info rims-info part-eone&&</li>",
-                "线路标题": ">&&<",
-                "播放数组": "play-item&&</ul>",
-                "播放列表": "<a&&/a>[不包含:展开]",
-                "播放标题": ">&&</",
-                "播放链接": "href=\"&&\"",
-                "跳转解析": "data-play=\"&&\"",
-                "分类url": "https://www.huolang.pro/zhao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$5#网红短剧$35"
-            }
-        },
-        {
-            "key": "Aries不承担任何风险-影视大全1",
-            "name": "♾️影视┃大全",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "class=\"stui-vodlist__box\">&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "style=\"background: url(&&)",
-                "副标题": "right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "播放数组": "class=\"stui-content__playlist&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "线路数组": "<h3&&h3>",
-                "线路标题": "\">&&</",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "主页url": "https://www.sdm0377.com/",
-                "分类url": "https://www.sdm0377.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "电影$Movie#电视剧$TV#综艺$ZY#动漫$ACG#短剧$DJ",
-                "类型": "动作片$dongzuody#喜剧片$xijudy#科幻片$kehuandy#恐怖片$kongbudy#爱情片$aiqingdy#剧情片$juqingdy#战争片$zhanzhengdy#记录片$jiludy#预告片$yugaody||国产剧$guochantv#欧美剧$oumeitv#香港剧$xianggangtv#韩国剧$hanguotv#台湾剧$taiwantv#日本剧$ribentv#泰国剧$taiguotv#海外剧$haiwaitv||空||空||空"
-            }
-        },
 
 {
             "key": "Aries不承担任何风险-乐游影院",
