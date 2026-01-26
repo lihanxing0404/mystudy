@@ -5,7 +5,24 @@
   
   "sites": [
 
-  
+  {
+    "key": "LiveTest", 
+    "name": "直播测试", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "searchable": 1,
+    "quickSearch": 1, 
+    "filterable": 1, 
+    "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA", 
+        "编码": "UTF-8",
+        "主页url": "", 
+        "直播": "1", 
+        "直播url": "https://raw.githubusercontent.com/lihanxing0404/mystudy/master/live_test.m3u" 
+    }
+},
+
 
 
 {
