@@ -1,7 +1,24 @@
 {
     "spider": "https://ghp.ci/https://raw.githubusercontent.com/yuanruiyang/tvbox/main/jar/摸鱼儿.jar",
     "sites": [
-
+ {
+            "key": "天天影院",
+            "name": "天天影院",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://www.fgkjtj.com/",
+                "搜索url": "https://www.fgkjtj.com/search.html?wd={wd}",
+                "分类url": "https://www.fgkjtj.com/species/{cateId}/page/{catePg}.html",
+                "分类": "恐怖电影$561#剧情电影$557#动作电影$564#科幻电影$560#犯罪电影$562#喜剧电影$559#日本动漫$545#国产动漫$546"
+            }
+        },
 
 
 
