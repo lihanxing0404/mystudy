@@ -704,7 +704,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1,
+            "filterable": 0,
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -715,8 +715,8 @@
                 "线路数组": "onclick=&&</li>",
                 "线路标题": "极速蓝光",
                 "搜索url": "https://www.03yy.live/search.php?searchword={wd}",
-                "分类url": "https://www.03yy.live/type/{cateId}-{catePg}.html",
-                "分类": "电影$index1#电视剧$index2"
+                "分类url": "https://www.03yy.live/type/index{cateId}-{catePg}.html",
+                "分类": "电影$1#电视剧$2"
                 
  
             },
