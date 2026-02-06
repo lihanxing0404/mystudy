@@ -696,32 +696,26 @@
         },
 
 
-
 {
-            "key": "03影院https://www.03yy.live",
-            "name": "03影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.03yy.live/",
-                "副标题": "极速蓝光",
-                "影片地区": "",
-                "简介": "+<p>&&</p>",
-                "线路数组": "onclick=&&</li>",
-                "线路标题": "极速蓝光",
-                "搜索url": "https://www.03yy.live/search.php?searchword={wd}",
-                "分类url": "https://www.03yy.live/type/index{cateId}-{catePg}.html",
-                "分类": "电影$1#电视剧$2"
-                
- 
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
+    "key": "csp_xBPQ_03影视",
+    "name": "03影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": {
+        "主页url": "https://www.03yy.live/",
+        "搜索url": "https://www.03yy.live/search.php?searchword={wd}",
+        "分类url": "https://www.03yy.live/type/index{cateId}-{page}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$66",
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+        "parse_type": "html",
+        "encode": "utf-8"
+    },
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/lwlxh666/tvhome/master/o.jar"
+},
+
 
 
 
