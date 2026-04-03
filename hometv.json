@@ -133,63 +133,11 @@
 
 
 
-{
-            "key": "✨纵横|影视✨",
-            "name": "🍓纵横┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "搜索url": "/search/-------------.html?wd={wd}",
-                "播放数组": "<ul class=\"row ewave-playlist-sort-content\">&&</ul> ",
-                "主页url": "https://www.tonglicable.com/",
-                "图片": "data-original=\"&&\"",
-                "分类url": "http://deedx.tonglicable.com/type/{cateId}-{catePg}.html",
-                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#其他片$lunlipian",
-                "排序": "按更新$time#按人气$hits#按评分$score"
-            }
-        },
+
 
         {
-            "key": "Aries不承担任何风险-樱花影视",
-            "name": "🌸樱花┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://ks-ydk.com/",
-                "二次截取": "stui-vodlist clearfix&&</ul>",
-                "数组": "lazyload\"&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "线路数组": "<h3&&h3>",
-                "线路标题": "title\">&&</",
-                "播放数组": "playlist clearfix&&</ul>",
-                "播放列表": "<li&&li>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "搜索url": "https://ks-ydk.com/search/-------------.html?wd={wd}",
-                "分类url": "https://ks-ydk.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
-            }
-        },
-        {
             "key": "Aries不承担任何风险-555电影",
-            "name": "5️⃣555┃电影",
+            "name": "九妖555┃电影",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -296,6 +244,7 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32||空||空"
             }
         },
+
         {
             "key": "Aries不承担任何风险-全民影院1",
             "name": "👩🏻‍🌾全民┃影院",
@@ -327,6 +276,8 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空"
             }
         },
+
+
         {
             "key": "Aries不承担任何风险-影视大全1",
             "name": "♾️影视┃大全",
@@ -677,24 +628,9 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#记录片$13#悬疑片$14#犯罪片$15#奇幻片$16#动画片$5||国产剧$17#港台剧$18#日韩剧$20#欧美剧$21#海外剧$22||大陆综艺$23#日韩综艺$24#欧美综艺$25#港台综艺$26||国产动漫$27#日韩动漫$28#欧美动漫$29#其它动漫$30||无"
             }
         },
-        {
-            "key": "csp_XBPQ_剧剧吧",
-            "name": "32♨️剧剧吧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$手机",
-                "编码": "UTF-8",
-                "搜索Url": "https://www.duanju8.cc/search/-------------.html?wd={wd}",
-                "主页url": "https://www.duanju8.cc/",
-                "分类url": "https://www.duanju8.cc/show/{cateId}--{by}---{letter}---{catePg}---{year}.html",
-                "分类": "短剧$1#美剧$8#韩剧$9#恋爱$2#反转$3#悬疑$4#穿越$5#古装$6#都市$7"
-            }
-        },
+    
+    
+
         {
             "key": "csp_XBPQ_好剧屋",
             "name": "35♨️好剧屋",
@@ -715,24 +651,9 @@
                 "剧情值": "*"
             }
         },
-        {
-            "key": "csp_xBPQ_麦田影视",
-            "name": "38♨️麦田影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.fuh.cc/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter={letter}&yuyan={lang}&state=&money=&ver=&jq=&area={area}",
-                "播放数组": "<ul class=\"myui-content__list scrollbar sort-list clearfix\"&&</ul>",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "类型": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12||国产剧$13#港台剧$14#欧美剧$15#韩剧$16#日剧$27#泰剧$29#海外剧$30#爽文短剧$39||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
+
+
+
         {
             "key": "东方影视",
             "name": "42♨️东方影视",
@@ -751,6 +672,7 @@
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$23#奇幻片$20#犯罪片$21#悬疑片$22||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#欧美剧$26#泰国剧$25#韩国剧$24#海外剧$27||大陆综艺$28#日韩综艺$29#港台综艺$30#欧美综艺$31||国产动漫$32#日韩动漫$33#港台动漫$34#欧美动漫$35#海外动漫$36#有声动漫$39||无||无||无||无"
             }
         },
+
         {
             "key": "夕云影视",
             "name": "43♨️夕云影视",
@@ -769,6 +691,8 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
         },
+
+
         {
             "key": "✳️天天影视",
             "name": "❇️天天影视",
@@ -789,27 +713,10 @@
                 "类型": "动作片$dongzuopian#爱情片$aiqingpian#喜剧片$xijupian#科幻片$kehuanpian#恐慌片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#动画片$donghuapian||国产剧$guochanju#香港剧$gangju#台湾剧$taiwanju#韩国剧$hanju#日本剧$riju#美剧$meiju||无||无||无||无"
             }
         },
-        {
-            "key": "穷电影",
-            "name": "✳️穷电影",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "数组": "<a&&</a>",
-                "播放数组": "class=\"play-list&&</ul>",
-                "线路标题": "data-key=\"*\">&&</a>",
-                "分类": "电影$nowplayingmovie#电视剧$topsearchtv#综艺$topsearchshow#动漫$topsearchcomic",
-                "分类url": "https://m.qiongdy6.com/top/{cateId}_{catePg}.html",
-                "搜索数组": "row search-content&&</div>",
-                "倒序": "1"
-            }
-        },
+
+
+   
+
         {
             "key": "午夜电影院",
             "name": "♨️夜午电影院",
@@ -827,6 +734,7 @@
                 "类型": "动作片$dongzuo#爱情片$aiqing#喜剧片$xiju#科幻片$kehuan#恐慌片$kongbu#剧情片$juqing#战争片$zhanzheng||国产剧$guochan#香港剧$xianggang#台湾剧$taiwan#韩国剧$hanguo#日本剧$riben#欧美剧$oumei||无||无||无||无"
             }
         },
+
         {
             "key": "rarbt1",
             "name": "♨️rarbt",
@@ -843,6 +751,7 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
+        
         {
             "key": "csp_XBPQ_🍞面包影视",
             "name": "🍞面包影视",
