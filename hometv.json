@@ -1122,6 +1122,8 @@
                 "分类值": "2&1&3&4"
             }
         },
+
+        
         {
             "key": "csp_看剧网",
             "name": "♨️看剧吧",
@@ -1193,96 +1195,11 @@
                 "剧情值": "*"
             }
         },
-        {
-            "key": "一起看呀吧",
-            "name": "👨‍👨‍👧一起看┃app",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "首页": "短剧",
-                "线路数组": "#playlist*\">&&</a>",
-                "线路标题": "🌽专享🌽+<span>&&</span>+线路",
-                "播放数组": "class=\"playlistlink&&</ul>",
-                "播放列表": "<li&&</li>",
-                "播放标题": "title=\"&&\"",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "varurlDecode(var player*url\":\"&&\")",
-                "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter}&yuyan={lang}&state=&money=&ver=&jq=[]",
-                "分类": "电影$1&电视剧$2&短剧$30&综艺$3&动漫$4&都是$5&刚好$6&东方$7"
-            }
-        },
+   
         
-        {
-            "key": "皮皮影视吧",
-            "name": "🌇皮皮|影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "请求头": "",
-                "主页url": "https://www.pipiysb.com/",
-                "数组": "<article id=\"post-*\"&&</article>",
-                "图片": "img src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "update\">&&</div>+icon-star2\">&&</div>",
-                "链接": "href=\"&&\"",
-                "简介": "title'>&&</span>+wp-content\">&&</p",
-                "线路二次截取": "",
-                "线路数组": "se-q'>&&</a>",
-                "线路标题": "皮皮4K专线",
-                "多线数组": "se-q'>&&</a",
-                "多线链接": "href=\"&&\"",
-                "播放二次截取": "playernotice&&</h2>[替换:</span>>>videourls:表题第1集题接\\&mvsource=0接表tables]",
-                "播放数组": "videourls:&&tables[替换:{\"name\":>>表题第#,\"url\":>>集题接\\&source=0\\&ep=#}>>接表]",
-                "倒序": "0",
-                "播放列表": "表&&表",
-                "播放标题": "题&&题",
-                "播放链接": "接&&接",
-                "播放链接前缀": "https://www.pipiysb.com/artplayer?id=+postid-&&\"",
-                "影片类型": "sgeneros\">&&</div>",
-                "影片年代": "默认--dateCreated\">*,&&</span>||电影--dateCreated'>*,&&</span>",
-                "导演": "name\">&&</div>",
-                "主演": "默认--演员</h2>&&<div id=\"info||电影--演员</h2>&&分享",
-                "分类url": "https://www.pipiysb.com/{cateId}/page/{catePg}/[https://www.pipiysb.com/{cateId}/];;r",
-                "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&热门播放&评风榜",
-                "分类值": "films&tv&classify/meiju&classify/guochan&classify/hanju&classify/fanju&trending&ratings"
-            }
-        },
-        {
-            "key": "Free影视",
-            "name": "💖Free影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "图片": "src=\"&&\"",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$45#纪录片$44#直播$46",
-                "简介": "class=\"text cor3\"&&</div>",
-                "导演": "导演 :</strong>&&</a>",
-                "演员": "演员 :</strong>&&</div>",
-                "线路数组": "class=\"swiper-slide\"&&</a>",
-                "线路标题": "</i>&nbsp;&&</a>",
-                "播放数组": "class=\"box border\"&&</ul>",
-                "播放列表": "<a&&</a>",
-                "播放标题": ">&&</a>",
-                "标题": "title=\"&&\"",
-                "主页url": "https://freeys.org/",
-                "分类url": "https://freeys.org/menu/{catePg}/{cateId}/{class}/{year}/{area}/0/0",
-                "倒序": "1"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
-
+  
+  
+ 
         
         {
             "key": "黑木耳",
@@ -1388,30 +1305,7 @@
             ]
         },
  
-     
-
-        {
-            "key": "海兔影院",
-            "name": "🐇海兔影院",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "发布地址": "https://www.haitu.site/",
-                "简介": "video-info-content vod_content\">&&</span>",
-                "线路数组": "module-tab-item tab-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "搜索数组": "",
-                "搜索url": "https://www.haituu.tv/vodsearch/{wd}-------------.html",
-                "分类url": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}------{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$42",
-                "类型": "动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$12#战争片$9#记录片$25||国产剧$13#港台剧$14#日剧$27#欧美剧$15#泰国剧$29#海外剧$30||大陆综艺$26#港台综艺$28#欧美综艺$31#日韩综艺$32||国产动漫$34#日韩动漫$35#欧美动漫$36#动漫电影$37#海外动漫$38||无"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
-        },
+    
         
       
         {
