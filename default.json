@@ -21,6 +21,27 @@
         },
 
 
+        {
+            "key": "51影院",
+            "name": "51影院",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/lihanxing0404/mystudy/master/o.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://www.51shzhuce.com",
+                "搜索url": "https://www.51shzhuce.com/search.html?wd={wd}",
+                "分类url": "https://www.51shzhuce.com/listnew/{cateId}/page/{catePg}.html",
+                "分类": "恐怖电影$36"
+            }
+        },
+
+
+
 
 {
             "key": "155资源",
